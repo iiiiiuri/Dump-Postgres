@@ -22,7 +22,7 @@ current_day = time.strftime(day)
 
 
 # CRIANDO DIRETORIO
-diretorio = f"C:\\CAMINHO-DA-SUA-PASTA\\Backup-{current_day}"
+diretorio = f"C:\\BackupPost\\Backup-{current_day}"
 os.makedirs(diretorio, exist_ok=True)
 
 # PATH PARA ARMAZENAR O BACKUP
