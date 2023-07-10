@@ -38,7 +38,7 @@ Todos os arquivos que o Script gerar, serão adicionados dentro da pasta <b>'Bac
 
 
 ### Thanks for reading!!
-#
+
 ![LogoIuri](https://raw.githubusercontent.com/iiiiiuri/DB-BLUE/a1c0c051c891ecd5f9a3f3c36a060bed6a85d912/static/img/logoIuri.svg)
 
 
