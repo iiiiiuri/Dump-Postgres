@@ -11,13 +11,13 @@ Nesse caso, vamos fazer um dump do
 <br>
 # Utilização
 <br>
-Antes de qualquer coisa, é necessário alterar os parametros de conexão com o seu Serviço do postgres.
+Antes de qualquer coisa, é necessário alterar os parâmetros de conexão com o seu Serviço do postgres.
 
 Para alterar a conexão, atualize as variáveis:
 
 <ul>
   <li><b>DB_HOST</b> - Link do servidor para conexão com o SGBD (CONEXÃO LOCAL: 127.0.0.1).</li>
-  <li><b>DB_USER</b> - Nome de usuario do Banco.</li>
+  <li><b>DB_USER</b> - Nome de usuário do Banco.</li>
   <li><b>DB_PORT</b> - Porta de conexão do banco de dados (POSTGRES PADRÃO : 5432).</li>
   <li><b>DB_NAME</b> - Array com o nome dos seus Schemas, ['banco1', 'banco2'].</li>
 </ul>
