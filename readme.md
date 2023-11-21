@@ -16,9 +16,9 @@ Antes de qualquer coisa, é necessário alterar os parâmetros de conexão com o
 Para alterar a conexão, atualize as variáveis:
 
 <ul>
-  <li><b>DB_HOST</b> - Link do servidor para conexão com o SGBD (CONEXÃO LOCAL: 127.0.0.1).</li>
+  <li><b>DB_HOST</b> - Host do servidor para conexão com o SGBD (CONEXÃO LOCAL: 127.0.0.1).</li>
   <li><b>DB_USER</b> - Nome de usuário do Banco.</li>
-  <li><b>DB_PORT</b> - Porta de conexão do banco de dados (POSTGRES PADRÃO : 5432).</li>
+  <li><b>DB_PORT</b> - Porta de conexão com o banco de dados (POSTGRES PADRÃO : 5432).</li>
   <li><b>DB_NAME</b> - Array com o nome dos seus Schemas, ['banco1', 'banco2'].</li>
 </ul>
 <br>
